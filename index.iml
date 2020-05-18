@@ -7,18 +7,20 @@
   <title>Enduro</title>
 </head>
 <body>
-  <div id="container">
+  <nav>
+
    <h1 id="header">Enduro</h1>
 
 
    <div class = "ul a li">
    <ul>
    <li><a href="#">Startseite</a></li>
-   <li><a href="#">Blog</a></li>
+   <li><a href="blog.html">Blog</a></li>
    <li><a href="#">Kontakt</a></li>
    </ul>
    </div>
 </br>
+<nav>
 <image src = "kaolinwerk.jpeg">
 
    <div id="mittelbereich">
@@ -36,7 +38,7 @@
 
    <h3>Überschrift dritter Ordnung</h3>
 
-   <p>Etwas Blindtext mit einem Link: <a href="#">Pellentesque habitant</a> morbi …</p>
+   <p>Etwas Blindtext mit einem Link: <a href="S:/Campus02/Webtechnologien/Selina25.github.io/blog.html">Pellentesque habitant</a> morbi …</p>
 
    </div>
 
@@ -52,7 +54,6 @@
    </div>
 
    <div class="clearer"><!-- hebt später die floats auf --></div>
-   </div><!-- /#mittelbereich
 
    <div id="footer">
    <h2>Überschrift zweiter Ordnung</h2>
@@ -63,9 +64,8 @@
    <li>Listenpunkt 2</li>
    <li>Listenpunkt 3</li>
    </ul>
-   </div><!-- /#footer
+ </div>
 
-   </div><!-- /#container
 
 </body>
 </html>
