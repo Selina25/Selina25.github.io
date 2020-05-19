@@ -121,3 +121,8 @@ border-style: solid;
 border-width: 7px;
 border-color: #FFE400;
 }
+#inhalt video {
+border-style: solid;
+border-width: 7px;
+border-color: #FF652F;
+}
