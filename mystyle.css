@@ -114,7 +114,10 @@ width: 100%;
   font-family: Tahoma;
   padding: 8px;
   width: 100%;
+}
 
-
-
+#inhalt img{
+border-style: solid;
+border-width: 7px;
+border-color: #FFE400;
 }
