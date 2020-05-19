@@ -19,6 +19,10 @@ h1{
   color:#747474;
   height: 20px;}
 
+h2{
+    font-size: 80pt;
+  }
+
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -76,16 +80,14 @@ width: 100%;
 }
 
 
-h2{
-  font-size: 80pt;
-}
+
 
 
 
 #inhalt ul{
   margin: 40px;
-  padding-right: 200px;
-
+  padding-right: 200px;;
+  margin-bottom: 200px;
 
 }
 
@@ -94,6 +96,7 @@ h2{
   float: left;
   font-size: 40pt;
   font-family: Tahoma;
+  padding: 8px;
   width: 100%;
 
 
