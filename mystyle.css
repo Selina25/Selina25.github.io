@@ -18,17 +18,17 @@ h1{
   font-family: Verdana, sans-serif;
   font-weight: bold;
   color:#747474;
-  height: 80px;}
+  height: 80pt;}
 
 h2{
   font-family: Verdana, sans-serif;
   font-weight: bold;
-    font-size: 60px;
+    font-size: 60pt;
   }
 h3{
   font-family: Verdana, sans-serif;
   font-weight: bold;
-    font-size: 40px;
+    font-size: 40pt;
 }
 h4{
   font-family: Verdana, sans-serif;
@@ -125,6 +125,9 @@ border-width: 20px;
 border-color: #FFE400;
 }
 #inhalt video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 25%;
   height: 25%;
 border-style: solid;
