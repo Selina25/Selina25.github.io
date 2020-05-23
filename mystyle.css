@@ -93,6 +93,16 @@ width: 100%;
 
 }
 
+#menuBar p{
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 40px;
+  font-size: 40pt;
+  font-family: Georgia, serif;
+  display: flex;
+    flex-wrap: nowrap;
+}
+
 #menuBar img{
     width: auto;
     height: 540px;
@@ -103,6 +113,12 @@ width: 100%;
 
 
 #inhalt ul{
+  margin: 200px;
+  padding-bottom: 200px;
+
+}
+
+#inhalt ol{
   margin: 200px;
   padding-bottom: 200px;
 
