@@ -1,34 +1,45 @@
 #header {
   color: #747474;
   text-align: center;
-  font-size: 15vw;
+  font-size: 10vw;
   background-color: #272727;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: auto;
   width:auto;
   vertical-align: middle;
+
+}
+
+
+header{
+  width: auto;
+  margin: auto;
 }
 
 body{
   background-color:  #747474;
   width: auto;
   margin: auto;
+  font-family: Georgia, serif;
 }
 
 h1{
   font-family: Verdana, sans-serif;
   font-weight: bold;
   color:#747474;
-  height: 80pt;}
+  height: 60pt;}
 
 h2{
   font-family: Verdana, sans-serif;
   font-weight: bold;
-    font-size: 60pt;
+    font-size: 40pt;
   }
 h3{
   font-family: Verdana, sans-serif;
   font-weight: bold;
-    font-size: 40pt;
+    font-size: 30pt;
 }
 h4{
   font-family: Verdana, sans-serif;
@@ -48,14 +59,15 @@ p{
   padding-left: 200px;
   padding-right: 200px;
   padding-top: 40px;
-  font-size: 40pt;
+  font-size: 20pt;
   font-family: Georgia, serif;
 }
 
 nav ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px;
 }
 
 nav a {
@@ -116,7 +128,7 @@ width: 100%;
 
 #menuBar img{
     width: 100%;
-    height: 40%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -138,7 +150,7 @@ width: 100%;
 #inhalt li{
 
   float: left;
-  font-size: 40pt;
+  font-size: 25pt;
   font-family: Tahoma;
   padding: 8px;
   width: 100%;
