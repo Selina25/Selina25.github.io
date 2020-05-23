@@ -82,7 +82,7 @@ nav a {
 nav li {
   float: left;
   font-size: 40px;
-  font-family: Tahoma;
+  font-family: Georgia, serif;
   font-weight: bold;
   text-align: center;
   width:33.3%;
@@ -120,7 +120,7 @@ width: 100%;
   padding-left: 200px;
   padding-right: 200px;
   padding-top: 40px;
-  font-size: 40pt;
+  font-size: 3vw;
   font-family: Georgia, serif;
   display: flex;
     flex-wrap: nowrap;
@@ -146,7 +146,7 @@ width: 100%;
 
   float: left;
   font-size: 25pt;
-  font-family: Tahoma;
+  font-family: Georgia,serif;
   padding: 8px;
   width: 100%;
 }
