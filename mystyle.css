@@ -56,8 +56,8 @@ h6{
 }
 
 p{
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 20px;
+  padding-right: 20px;
   padding-top: 40px;
   font-size: 20pt;
   font-family: Georgia, serif;
@@ -76,12 +76,13 @@ nav a {
   text-decoration: none;
   color: black;
 
+
 }
 
 
 nav li {
   float: left;
-  font-size: 40px;
+  font-size: 2vw;
   font-family: Georgia, serif;
   font-weight: bold;
   text-align: center;
@@ -98,6 +99,7 @@ width: 100%;
 
 #barcolor1{
   background-color: #FF652F;
+
 }
 
 #barcolor2{
@@ -112,19 +114,12 @@ width: 100%;
 #menuBar{
     padding: 2%;
     table-layout: fixed;
+    font-size: 3vw;
 
 
 }
 
-#menuBar p{
-  padding-left: 200px;
-  padding-right: 200px;
-  padding-top: 40px;
-  font-size: 3vw;
-  font-family: Georgia, serif;
-  display: flex;
-    flex-wrap: nowrap;
-}
+
 
 #menuBar img{
     width: 100%;
@@ -136,7 +131,7 @@ width: 100%;
 
 
 #inhalt ul{
-  margin: 50px;
+  margin: 10px;
   padding-bottom: 200px;
 
 }
@@ -161,6 +156,9 @@ border-style: solid;
 border-width: 20px;
 border-color: #FFE400;
 }
+
+
+
 #inhalt video {
   display: block;
 margin-left: auto;
